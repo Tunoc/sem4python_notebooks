@@ -1,7 +1,6 @@
 # sem4python_notebooks  
   
-## MyBinder links  
-* Week1:  
+* [Week1 folder](https://github.com/Tunoc/sem4python_notebooks/tree/master/Week1)
 * Week2:  
 * Week3:  
 * Week4:  
