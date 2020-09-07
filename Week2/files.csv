@@ -1,0 +1,11 @@
+.empty
+.ipynb_checkpoints
+files.csv
+files_subfolders.csv
+headerLines.txt
+my_modules
+printList.csv
+randomWords.csv
+SubFolder
+Week_2.ipynb
+__pycache__
