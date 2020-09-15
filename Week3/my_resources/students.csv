@@ -1,0 +1,61 @@
+Student_name,Gender,Course_name,Teacher,ECTS,Classroom,Grade,Img_url
+Hasen Oh,Male,Computer graphics,John Wayne Gacy,10,104,02,https://tinyurl.com/yxz2o5zd
+Hasen Oh,Male,Security,Pedro Lopez,15,103,02,https://tinyurl.com/yxz2o5zd
+Hasen Oh,Male,Go home club,Jeffrey Dahmer,30,101,7,https://tinyurl.com/yxz2o5zd
+Connall Kim,Male,Internet Of Things,John Wayne Gacy,5,103,4,https://tinyurl.com/yxz2o5zd
+Connall Kim,Male,Animation,Ted Bundy,10,102,12,https://tinyurl.com/yxz2o5zd
+Connall Kim,Male,Game Development,Jeffrey Dahmer,30,103,-03,https://tinyurl.com/yxz2o5zd
+Niks Kim,Male,Machine Learning,Jack the Ripper,5,104,4,https://tinyurl.com/yxz2o5zd
+Niks Kim,Male,Internet Of Things,John Wayne Gacy,5,103,4,https://tinyurl.com/yxz2o5zd
+Niks Kim,Male,Go home club,Jeffrey Dahmer,30,101,7,https://tinyurl.com/yxz2o5zd
+Caydon Oh,Male,Animation,Ted Bundy,10,102,12,https://tinyurl.com/yxz2o5zd
+Caydon Oh,Male,JavaScript,John Wayne Gacy,5,105,00,https://tinyurl.com/yxz2o5zd
+Caydon Oh,Male,Machine Learning,Jack the Ripper,5,104,4,https://tinyurl.com/yxz2o5zd
+Jared Kim,Male,Go home club,Jeffrey Dahmer,30,101,7,https://tinyurl.com/yxz2o5zd
+Jared Kim,Male,Go home club,Jeffrey Dahmer,30,101,7,https://tinyurl.com/yxz2o5zd
+Jared Kim,Male,Security,Pedro Lopez,15,103,02,https://tinyurl.com/yxz2o5zd
+Huxley Choi,Male,Movie watching,Ted Bundy,10,104,7,https://tinyurl.com/yxz2o5zd
+Huxley Choi,Male,JavaScript,John Wayne Gacy,5,105,00,https://tinyurl.com/yxz2o5zd
+Huxley Choi,Male,Python,Pedro Lopez,15,104,7,https://tinyurl.com/yxz2o5zd
+Ayub Choi,Male,Internet Of Things,John Wayne Gacy,5,103,4,https://tinyurl.com/yxz2o5zd
+Ayub Choi,Male,Machine Learning,Jack the Ripper,5,104,4,https://tinyurl.com/yxz2o5zd
+Ayub Choi,Male,Movie watching,Ted Bundy,10,104,7,https://tinyurl.com/yxz2o5zd
+Theo Jung,Male,Game Development,Jeffrey Dahmer,30,103,-03,https://tinyurl.com/yxz2o5zd
+Theo Jung,Male,JavaScript,John Wayne Gacy,5,105,00,https://tinyurl.com/yxz2o5zd
+Theo Jung,Male,Go home club,Jeffrey Dahmer,30,101,7,https://tinyurl.com/yxz2o5zd
+Oakley Kang,Male,Game Development,Jeffrey Dahmer,30,103,-03,https://tinyurl.com/yxz2o5zd
+Oakley Kang,Male,Computer graphics,John Wayne Gacy,10,104,02,https://tinyurl.com/yxz2o5zd
+Oakley Kang,Male,Internet Of Things,John Wayne Gacy,5,103,4,https://tinyurl.com/yxz2o5zd
+Akos Choi,Male,Game Development,Jeffrey Dahmer,30,103,-03,https://tinyurl.com/yxz2o5zd
+Akos Choi,Male,Go home club,Jeffrey Dahmer,30,101,7,https://tinyurl.com/yxz2o5zd
+Akos Choi,Male,Computer graphics,John Wayne Gacy,10,104,02,https://tinyurl.com/yxz2o5zd
+Aniela Oh,Female,Go home club,Jeffrey Dahmer,30,101,7,https://tinyurl.com/y4cufl2s
+Aniela Oh,Female,Python,Pedro Lopez,15,104,7,https://tinyurl.com/y4cufl2s
+Aniela Oh,Female,Movie watching,Ted Bundy,10,104,7,https://tinyurl.com/y4cufl2s
+Santana Kang,Female,Game Development,Jeffrey Dahmer,30,103,-03,https://tinyurl.com/y4cufl2s
+Santana Kang,Female,JavaScript,John Wayne Gacy,5,105,00,https://tinyurl.com/y4cufl2s
+Santana Kang,Female,Go home club,Jeffrey Dahmer,30,101,7,https://tinyurl.com/y4cufl2s
+Helaina Choi,Female,Internet Of Things,John Wayne Gacy,5,103,4,https://tinyurl.com/y4cufl2s
+Helaina Choi,Female,Game Development,Jeffrey Dahmer,30,103,-03,https://tinyurl.com/y4cufl2s
+Helaina Choi,Female,Go home club,Jeffrey Dahmer,30,101,7,https://tinyurl.com/y4cufl2s
+Rayaan Oh,Female,Security,Pedro Lopez,15,103,02,https://tinyurl.com/y4cufl2s
+Rayaan Oh,Female,Computer graphics,John Wayne Gacy,10,104,02,https://tinyurl.com/y4cufl2s
+Rayaan Oh,Female,Internet Of Things,John Wayne Gacy,5,103,4,https://tinyurl.com/y4cufl2s
+Qatr-Alnada Park,Female,Internet Of Things,John Wayne Gacy,5,103,4,https://tinyurl.com/y4cufl2s
+Qatr-Alnada Park,Female,Security,Pedro Lopez,15,103,02,https://tinyurl.com/y4cufl2s
+Qatr-Alnada Park,Female,Machine Learning,Jack the Ripper,5,104,4,https://tinyurl.com/y4cufl2s
+Aizah Kim,Female,JavaScript,John Wayne Gacy,5,105,00,https://tinyurl.com/y4cufl2s
+Aizah Kim,Female,Python,Pedro Lopez,15,104,7,https://tinyurl.com/y4cufl2s
+Aizah Kim,Female,Computer graphics,John Wayne Gacy,10,104,02,https://tinyurl.com/y4cufl2s
+Jamila Lee,Female,Security,Pedro Lopez,15,103,02,https://tinyurl.com/y4cufl2s
+Jamila Lee,Female,Python,Pedro Lopez,15,104,7,https://tinyurl.com/y4cufl2s
+Jamila Lee,Female,Security,Pedro Lopez,15,103,02,https://tinyurl.com/y4cufl2s
+Marykate Oh,Female,JavaScript,John Wayne Gacy,5,105,00,https://tinyurl.com/y4cufl2s
+Marykate Oh,Female,Game Development,Jeffrey Dahmer,30,103,-03,https://tinyurl.com/y4cufl2s
+Marykate Oh,Female,Security,Pedro Lopez,15,103,02,https://tinyurl.com/y4cufl2s
+Meghal Park,Female,Machine Learning,Jack the Ripper,5,104,4,https://tinyurl.com/y4cufl2s
+Meghal Park,Female,Python,Pedro Lopez,15,104,7,https://tinyurl.com/y4cufl2s
+Meghal Park,Female,Machine Learning,Jack the Ripper,5,104,4,https://tinyurl.com/y4cufl2s
+Maya Choi,Female,Go home club,Jeffrey Dahmer,30,101,7,https://tinyurl.com/y4cufl2s
+Maya Choi,Female,Internet Of Things,John Wayne Gacy,5,103,4,https://tinyurl.com/y4cufl2s
+Maya Choi,Female,Movie watching,Ted Bundy,10,104,7,https://tinyurl.com/y4cufl2s
