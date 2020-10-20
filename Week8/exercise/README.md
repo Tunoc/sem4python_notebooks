@@ -12,7 +12,6 @@ Download the .csv file.
     d) `/api/employee/delete`  
     e) `/api/employee/update`  
 4)	Test the class from the .py file in CLI.  
-5)	Make the class dynamic.  
 
 ### Made by:  
 ## *Lucky drawing*  
