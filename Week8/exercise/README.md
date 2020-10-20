@@ -11,7 +11,7 @@ Download the .csv file.
     c) `/api/employee/add`  
     d) `/api/employee/delete`  
     e) `/api/employee/update`  
-4)  Test endpoints i Postman eller lignende.
+4)  Test endpoints in Postman.
 5)	Test the class from the .py file in CLI.  
 
 ### Made by:  
